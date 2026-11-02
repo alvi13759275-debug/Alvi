@@ -1,0 +1,6 @@
+{
+  "name": "OmniLang Studio",
+  "description": "Multi-paradigm compiler architect, 700+ language & binary format reference, and 4-phase AST & VM execution pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
